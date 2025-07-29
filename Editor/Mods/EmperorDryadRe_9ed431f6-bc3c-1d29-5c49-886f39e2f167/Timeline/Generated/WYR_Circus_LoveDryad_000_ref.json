@@ -1,0 +1,902 @@
+{
+  "Flags": {
+    "11ab468e-8470-2bbf-7417-4dcc8f3d64e9": [
+      "WYR_Circus_Clown_State_Hostile",
+      "WYR_Circus_State_PostCombat"
+    ],
+    "1bdceb3e-74f5-eb75-c919-52e217161dcd": [
+      "WYR_Circus_HasMet_LoveDryad",
+      "WYR_Circus_LoveDryad_State_ReturningWithCompanion"
+    ],
+    "efe0f47c-654f-f1a8-d159-56d92a672682": [
+      "FEMALE"
+    ],
+    "de19c6e0-3dd1-49d7-83eb-bea9beb1940f": [
+      "FEMALE"
+    ],
+    "81a6a56c-0a66-5261-f47a-16fdc8427637": [
+      "AVATAR"
+    ],
+    "ab2019e6-0980-ce07-d70f-41f17f1f397d": [
+      "WYR_Circus_LoveDryad_Event_PassedLoveTest",
+      "WYR_Circus_LoveDryad_State_PlayedGame",
+      "WYR_Circus_LoveDryad_Knows_PlayerTriedGame"
+    ],
+    "4feebb41-673e-1f14-0993-fc517aca8f7c": [
+      "WYR_Circus_Clown_State_Hostile",
+      "WYR_Circus_State_PostCombat",
+      "WYR_Circus_HasMet_LoveDryad_PostCombat"
+    ],
+    "c1d267d5-25ca-ec12-39d5-f2089e21c761": [
+      "WYR_Circus_LoveDryad_State_PlayedGame",
+      "WYR_Circus_LoveDryad_Knows_PlayerTriedGame"
+    ],
+    "f7d11005-0c21-46b6-83b6-0977611e954d": [
+      "WYR_Circus_LoveDryad_State_ReturningWithCompanion"
+    ],
+    "ee8f4c82-ac90-3c55-4d6e-8f95d727b79c": [
+      "WYR_Circus_Clown_State_Hostile",
+      "WYR_Circus_State_PostCombat",
+      "WYR_Circus_HasMet_LoveDryad",
+      "WYR_Circus_HasMet_LoveDryad_PostCombat"
+    ],
+    "cdc635fb-6d2c-0312-4d27-45ad52347ee3": [ ],
+    "5b4f21f6-9fc9-c697-e8ee-f114406386a3": [
+      "WYR_Circus_LoveDryad_Event_PassedLoveTest",
+      "WYR_Circus_LoveDryad_State_PlayedGame",
+      "WYR_Circus_LoveDryad_Knows_PlayerTriedGame"
+    ],
+    "aae8e62c-18ec-7c8d-774e-fb13ed2d16a3": [ ],
+    "aa38f9b7-26a0-677e-4153-dff936b22a14": [ ],
+    "a6b993a0-9380-c482-9918-f359c3f0a869": [
+      "FEMALE"
+    ],
+    "a7de74d5-94f1-680f-d490-fe5758c26bf4": [ ],
+    "ab5543f7-2081-46ee-ed19-06a242ed6312": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "a54c090c-b396-d046-7265-a87bf20ba1a8": [ ],
+    "a4b76105-0d87-87cf-4106-113a92668f80": [
+      "FEMALE"
+    ],
+    "a9b8994f-842d-149c-0f46-2c0ec783487d": [ ],
+    "0058cbab-7eed-e985-1a07-e83f70f5ef58": [ ],
+    "adb28294-09a7-2824-d47e-4b6fe5e3c505": [ ],
+    "acf7c2b5-3b49-1d42-df12-b4e9069a7f5c": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "a40fa9a4-ed61-d563-1c21-7a88126323d5": [ ],
+    "ae31cf70-8566-d3de-daeb-bb4088bd456a": [ ],
+    "ae7f6f07-e392-9f09-460f-ef3c00b684b7": [ ],
+    "fc7fd455-9c9b-39cd-cc40-e0b433495a5f": [ ],
+    "ae8aa25f-b32e-87e5-076d-f5f4be09e592": [ ],
+    "ae91c146-046b-8240-b044-45c05eb6c6f1": [ ],
+    "af9fa1d2-654f-00f3-be24-94b5ee662730": [ ],
+    "b08a5297-52c2-9d48-5da8-ad25f14a0cee": [ ],
+    "b08df6be-a5b0-ceab-57df-440d796f9b7b": [ ],
+    "b13325c9-c134-494c-283d-9bcec7103908": [
+      "FEMALE"
+    ],
+    "b2ce404e-c211-7ebf-67c1-8635460c31e7": [ ],
+    "b5c55ca9-3520-81d7-18fa-09a573f83675": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "b68e3246-a343-ebec-521f-df7ce2317a6f": [
+      "ORI_State_PartneredWithKarlach"
+    ],
+    "b6954b66-a4fb-ce6e-f8c4-941d4b05e850": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "aca10713-b965-06c1-658d-fb5170d31812": [ ],
+    "a3fcc612-59fc-cbb3-02d9-0afc49a3f997": [ ],
+    "ed32937b-aa6f-63ec-beb2-590dfc5a17c1": [ ],
+    "9d0687c8-8ef6-6f1d-6f57-6f0139a5bd0b": [ ],
+    "9f6f810a-0cee-2627-4ec2-b5a8396f259b": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "7daad9f9-9585-4675-7ef3-95f947bf41f0": [ ],
+    "7de361dc-680b-cf84-c167-5706d33f1f91": [ ],
+    "ffd200d8-a005-fae9-6838-a3a4ebe3be42": [
+      "FEMALE"
+    ],
+    "81d8616d-a4f3-7dda-5dd0-fb61b25e724e": [
+      "FEMALE"
+    ],
+    "b0076fff-87bd-a326-a067-dcb360ba361d": [ ],
+    "8234324e-efae-ee5b-95da-a809cf6f88ca": [ ],
+    "82e01a23-cfcc-0f5c-5e28-29fccec0eb00": [ ],
+    "83d06d6e-c76f-f876-7395-f4e69964a3fb": [ ],
+    "84d33803-d20d-5ba7-1a03-4c3c82ef1723": [ ],
+    "851213db-61ac-fa8f-a4c6-99ec641a23fb": [ ],
+    "b5b75c96-ccd8-bade-aaa5-5b2c4084b80e": [ ],
+    "854960bf-099a-e075-4a8a-51a1638a09ae": [ ],
+    "861016a8-ad0b-4754-a064-834df8060e92": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "89306136-e358-ffd5-6c69-efb5dc42ad0d": [ ],
+    "89f7fbe1-86f0-b4f6-68ec-90c00d4f7d2e": [ ],
+    "8ad88957-f8f7-8422-5b79-f6215199d55a": [ ],
+    "8ae22b04-502a-b558-28f2-be31f9964c17": [ ],
+    "8b9800d8-54ac-5e64-67a5-c2ed5a648a92": [ ],
+    "8bfb32f0-49f5-d260-fbd1-2a75a268ff63": [ ],
+    "ad13b08c-7a3a-ece8-b81c-14c71c346aa1": [ ],
+    "8c4f67b2-7a6f-7f39-3b64-a2e78335265e": [ ],
+    "9083776e-d04b-938a-ba07-8b44215dfb4e": [
+      "FEMALE"
+    ],
+    "924f8ac4-fd1e-f8b6-6ba2-e5f717336f52": [ ],
+    "92509b1c-ecdd-dbc1-2b75-f7c157dfb5ef": [ ],
+    "9319df7d-5479-31da-5e95-b2f551cb1718": [ ],
+    "982b7d3d-a6e7-d0c3-a360-26aef4d876b6": [ ],
+    "98ef317f-1064-7feb-ada6-6a729ebc8a11": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "9a08e334-98ed-7aba-a592-b40a0ef8a933": [ ],
+    "9a269097-1e82-dac1-363e-a3b38d944e93": [
+      "GLO_Ravengard_State_Defeated"
+    ],
+    "9b217933-9821-8c0f-c00a-5f4e42151254": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "9b6b936c-d2dc-60eb-be1b-a8e93dd3ec90": [ ],
+    "b8c17292-b24f-ecd1-5f41-489a9232322d": [ ],
+    "a1f51a4e-188e-ce9f-a61e-c194db1e8787": [ ],
+    "b8f615f9-99a5-109a-1fb6-7172e6d80fa8": [ ],
+    "be0319f4-f14b-d114-37af-3a155009971e": [ ],
+    "ba6c3930-677d-c6be-a2f5-eed90c8339ed": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "e5460c46-b7f2-36ca-8f0b-6f2405c3d8a3": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "e65c44cb-5108-dfac-f77e-95f8b2272d24": [ ],
+    "e885177f-0fed-f94a-bdd5-dcee843b4f1f": [ ],
+    "e8edd18b-675a-5507-2e4f-42e4bb55ff86": [ ],
+    "e96346e3-fdbc-2fd0-9964-a7b8a5275789": [ ],
+    "ea40c64f-a88f-900b-5345-d6a25c7dadf7": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "ea820236-8182-4d35-0ed5-42cca0ce91a3": [ ],
+    "ead5ab88-65ea-ea70-c0f2-5e40aeb36209": [ ],
+    "eb9c962a-c5a6-9e2e-91a9-958a60080b84": [ ],
+    "ebcac577-6bde-5c22-af5c-ec14dc149119": [ ],
+    "ec29e2f1-a8ed-de1f-5a06-637e50c04de9": [ ],
+    "ed41ba4b-82b2-cb9f-df40-2383e085b7fe": [ ],
+    "eeafe033-b790-a0c2-f03f-bae00b499444": [ ],
+    "e4ab3fea-3b1e-14b8-a6aa-7379336d4e44": [
+      "REALLY_KARLACH"
+    ],
+    "f0ece763-56c0-3a8b-cfcd-a4dd37e5d082": [
+      "FEMALE"
+    ],
+    "f1111ce8-6b5f-9228-f6a6-a2fb77aa530f": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "f11f1a9e-dbb4-2f58-5f45-161067c83967": [ ],
+    "f1e95397-5f28-8309-181e-a1b7aa7e002b": [
+      "ORI_State_PartneredWithLaezel"
+    ],
+    "f47d98c7-aa73-404b-18e2-259bebe232bc": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "f544dcab-2d44-2796-2f17-4783b4b2a312": [ ],
+    "f6ef4752-9cc5-0466-a7f9-41efe5fa0863": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "f94accf6-a0b2-a898-e466-b5df3b45a0ed": [ ],
+    "f9727cd8-a8d8-e4ac-c5a6-683f9a43f28c": [
+      "FEMALE"
+    ],
+    "fa64c443-f6b4-ba8f-f31d-4c35cb423bd9": [ ],
+    "fb550195-17e1-a400-455b-a11210c6fe69": [ ],
+    "fbd93751-ae5d-1138-7aa8-6a4083d549f6": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "fcc34b43-1fed-3933-2518-7c2644c27ac5": [ ],
+    "ffb04ed6-2404-7343-2ad8-ba1da6bb12ad": [ ],
+    "f0fc723e-c540-f3ec-52f4-cb3a2de50a89": [ ],
+    "b9ecfa9b-4ccd-774b-9fd6-3e10e61ade38": [ ],
+    "e3b81464-4a60-f8c1-fddb-c475d596417c": [
+      "FEMALE"
+    ],
+    "e09bf085-5f40-1245-25d5-6c67217f6bd4": [ ],
+    "bc8f39a5-4a89-a09e-0dc9-2e888ea73ada": [ ],
+    "7c4ceccd-00a9-3a84-58ed-e016f7255edf": [ ],
+    "be3dfad5-c31e-f52e-5c7e-3648db4323f0": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "be81bb98-11b2-82ca-0ea4-ad8cdb17cd65": [ ],
+    "bee2c183-6f27-0a69-41f2-af7d67d5f5a1": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "c204823a-d240-c86e-70cc-312eee999e81": [
+      "FEMALE"
+    ],
+    "c212635f-6c31-f1e2-851b-48571e23abc3": [ ],
+    "c610c22f-c73b-10ef-c152-36bc4ba0ebeb": [ ],
+    "c7dbe9c4-aa78-7837-3a4f-6fb355d73426": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "cc5f5a89-c643-1c6f-6601-faf18dc041e4": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "cda0177c-b12c-0a3b-292c-226263b01465": [
+      "GLO_Ravengard_State_Defeated"
+    ],
+    "d1e94951-372d-f3e9-58a7-0ea520b6138d": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "d28d93ad-1180-24fb-7fb8-9bcb4a296dc4": [ ],
+    "e1b8b9eb-1f30-c566-6a13-7f23b935c5db": [ ],
+    "d2e9a3a6-f0fd-10f5-f5ed-71ef1879601c": [
+      "FEMALE"
+    ],
+    "d396be7d-f2eb-4c44-cb05-e419c6c8828a": [
+      "FEMALE"
+    ],
+    "d40cdc34-ed14-9ef5-aca4-83e4a9d9f38b": [ ],
+    "d56d0293-96ef-5e97-4cad-375d25796f0b": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "d5a7df78-6a1c-5f72-4acc-42e7a962f953": [ ],
+    "d6d39c5f-558c-049a-83b8-1d0749a88c10": [
+      "REALLY_DARK_URGE",
+      "WYR_OrinsImpersonation_State_MetOrinOnce"
+    ],
+    "d73d8a98-d806-bd18-ef03-ddb946335415": [ ],
+    "d8c57f15-ac83-3d05-d7bc-d445b2ace82f": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "dc04556f-824b-4fb4-6c0d-1f16706c3163": [ ],
+    "f4595985-d87e-75fc-cc31-f58d974f913f": [ ],
+    "dddc2b78-7a55-9506-8e9b-efaa3c0db967": [ ],
+    "de5fb4bd-79f8-af09-2746-a7e887edbff1": [ ],
+    "de638537-9e3b-d77a-bbcd-911f42e63ded": [ ],
+    "deeed549-b481-1822-b9ca-08eff45015ce": [ ],
+    "dffcab63-0c62-e590-307c-80d00ae71e22": [
+      "FEMALE"
+    ],
+    "d3151f65-4d1c-8c32-f0b6-d7a11843a40c": [
+      "FEMALE"
+    ],
+    "af8cb7b3-0775-2a90-6b53-4109723ff4f3": [ ],
+    "7b503ad1-bcca-c369-81ca-9e49317ddc39": [ ],
+    "80f69a0d-b5e4-ef7b-55f8-7773ab8ae759": [
+      "ORI_State_PartneredWithShadowheart"
+    ],
+    "37061c5e-6885-5619-2eb0-8b230f3c33c4": [ ],
+    "fed911d7-d81d-7f68-ea09-cc2450a79d72": [ ],
+    "1df14144-da67-f50a-2253-e3b19058083d": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong"
+    ],
+    "92385309-902e-abd2-7959-c8707175c5fa": [ ],
+    "1f3828fc-1f06-80dd-d123-d3fa55552ab7": [ ],
+    "21b5a094-0672-0fdb-cd33-91e365b33f7e": [ ],
+    "24cca976-1b62-8e0f-fcd7-d1285dd6bd29": [ ],
+    "2619e866-af60-388f-16b1-b497780ac5f9": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "2a12c04d-0322-3f5b-1f59-92843c0dd897": [ ],
+    "2b53b88a-ff1d-c5a7-d568-973a34ec8e29": [ ],
+    "2b54d5e7-25d5-a6db-cf6a-21023aeba96a": [ ],
+    "75fd8585-0e2c-60dc-4523-a06817e3e030": [ ],
+    "2ddeff22-0948-2ef2-387a-d97239a1d729": [ ],
+    "2f8f9736-dbb3-cd41-bf35-60dd8f9963c7": [ ],
+    "2fd3a889-2090-c405-e7a1-175f23171650": [
+      "ORI_State_PartneredWithAstarion"
+    ],
+    "306f51a2-03ae-5f23-cc8b-1eadcc8636dd": [ ],
+    "30f7584d-8d66-60dc-c975-bbe1368060c9": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "1dbd037a-ab02-e120-f456-86ac3a8c98e1": [ ],
+    "31b5f58f-4c6f-7929-4022-760c5504d2d1": [ ],
+    "3294e28f-e09a-1e23-22a3-49cc6bc38515": [
+      "ORI_State_PartneredWithGale"
+    ],
+    "33c6136e-1c3f-f9b1-de10-2cc0ff7eed94": [ ],
+    "34102f4f-6795-eac1-4f6d-5f9e3951b502": [
+      "FEMALE"
+    ],
+    "8d62ca1c-ea07-265b-f8e1-809482dc6060": [ ],
+    "3467d0df-bf81-d811-2942-589c583af98e": [ ],
+    "34c7f596-e611-2f03-7bff-629f6e7b358d": [ ],
+    "35b882c6-0626-7f7b-f172-da9124e7e2ee": [ ],
+    "361e811a-4c69-1759-e51d-9c6d6e083d35": [
+      "FEMALE"
+    ],
+    "9017863d-d212-cb4a-b7bf-5a0f9484da68": [ ],
+    "7acab6b2-50e2-f591-61a6-3a063bd75235": [ ],
+    "39023617-8bc2-066d-ea97-f4a624dbf986": [ ],
+    "3933f6d1-b7c6-a263-b5ba-52cfc8cd0106": [ ],
+    "39991d5e-3e88-7817-408a-65e20ec1f91c": [ ],
+    "39a1e767-1b16-ca80-3bc2-2270bb1ae29f": [ ],
+    "3b17f45f-f222-474a-ecd7-330205c7dbc5": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "32878e07-d638-7b22-6222-343e9461b87d": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "3ce72681-84eb-bce6-9612-94848dfc2fcd": [
+      "WYR_AnsurGhost_Event_HeartOfTheGate"
+    ],
+    "1d6ac943-0638-682b-4c0f-83adc60e7f8a": [ ],
+    "1ad00b2b-9bea-faab-3f24-8065c34920ae": [
+      "FEMALE"
+    ],
+    "d0297885-0faf-d396-6ea7-2f2fa86d62af": [ ],
+    "00989c9c-4007-3ec7-699d-89dd92bb63ad": [ ],
+    "00c20e35-b4eb-10b5-4721-3bb78f2c5c24": [
+      "FEMALE"
+    ],
+    "017eb017-0d5d-30f6-60ae-7cd380529667": [ ],
+    "b598f9d7-09df-2384-0028-2ea49a1bd7f2": [ ],
+    "01ed0cce-6c85-ebcc-ed53-f4947a9c78b2": [ ],
+    "022a0e74-aaa9-fdf0-c9c7-12c7cb4e514f": [ ],
+    "02bb1a02-6b5c-40dc-93a8-d57a118b3962": [
+      "FEMALE"
+    ],
+    "0456990e-d240-f7de-8e44-473e7e8e085d": [ ],
+    "e06034cd-6e3b-b596-cfce-b955956532e5": [ ],
+    "3cf4ecb5-4f03-2fc4-69d1-0c2f31dfe596": [ ],
+    "1f038953-4fee-48f1-c9d9-1db3c5d7ab10": [ ],
+    "0617e41a-a769-5ebc-2182-56f995f87c5d": [ ],
+    "06ebe617-0139-fb2f-3b07-8fd212919e4e": [
+      "ORI_State_PartneredWithHalsin"
+    ],
+    "072eedf1-d73e-423a-63ea-cc6c6c755b71": [ ],
+    "076d4e3c-ceb6-663e-2674-c767dc452d95": [ ],
+    "08431052-482d-7d2b-a634-9ac8b73f4c89": [ ],
+    "0b13cbc6-fc75-46a5-ba52-8954da3e87ae": [
+      "ORI_State_PartneredWithHalsinSecondary"
+    ],
+    "1b590a6f-011f-3986-4bb9-9bfcd9c153cc": [ ],
+    "0bb29b1d-9ff7-d288-1477-797330cff964": [ ],
+    "0e10dd8d-8597-0a50-94b6-16aa3c561f41": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong"
+    ],
+    "a391dc6c-2f6f-93b6-a0c2-bde892082b2d": [
+      "REALLY_DARK_URGE",
+      "WYR_OrinsImpersonation_State_MetOrinOnce"
+    ],
+    "1197063d-ea27-7233-2045-b7d3a7493acd": [ ],
+    "11e71c79-af78-3b58-5650-d84619a923b9": [ ],
+    "12962104-9fed-add4-64f0-874d5236dd11": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "1625bc1a-0d42-0fe7-a20a-153e8d899251": [ ],
+    "1679fc40-b912-be6d-0017-51a49d3ddc15": [ ],
+    "172b795c-479c-691d-4769-59c66fa4ec51": [ ],
+    "1c380e53-c80c-c52f-ef52-c2497f7bf2df": [ ],
+    "176da9ad-f942-a7ab-2872-71029b945dc7": [ ],
+    "17c48198-ed78-7c31-18ac-83af5e232412": [ ],
+    "19887451-24d5-54d6-5d0c-468db00084dc": [ ],
+    "1995fbe6-962f-eba8-1cce-fc70e896de97": [ ],
+    "1a26a807-0bc5-f96f-6b34-d31ed32dcf47": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "1ac53e2e-df8f-41dd-898b-7c7e28f10257": [
+      "ORI_State_PartneredWithLaezel"
+    ],
+    "0db724bd-0503-e913-f25b-26207ee70d6c": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "3d2fc8e5-d141-f2ee-c406-2e78139e9530": [
+      "FEMALE"
+    ],
+    "fb0a8155-c0cd-40aa-b817-97643312ea70": [ ],
+    "3e4f1282-372e-8682-abb3-809b9352b8cf": [ ],
+    "66eb7e6f-5d8e-3a20-3f9c-acc1cf9000dd": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "53318c5c-df75-313a-30a9-1b2e107c769c": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "711ecae5-6c75-b341-16d5-3ca896ab5035": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "5343e1d2-a66d-d27a-54bc-97d5f66cb301": [ ],
+    "53ba377f-0177-f41e-80a7-b9e8425a61a5": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "53d9500a-cbcb-7ec3-7bf7-b26e37035220": [
+      "a4924b16-5c70-aa9d-8ee2-931b62201a0e_BrainReaction"
+    ],
+    "54692176-709a-d896-5cbb-363ee7fb48e6": [
+      "FEMALE"
+    ],
+    "3e3db696-30cc-e2e6-5b95-84e9febdde87": [ ],
+    "56fe2434-66f4-aad1-2851-c2c207980865": [ ],
+    "6ed7c934-f0d8-7414-ca8d-d87e93bf2537": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "59885155-2877-7694-dc67-18ce791a161b": [ ],
+    "5b8f5a2a-0531-55c5-4505-f55110f91821": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "5bafd663-a297-2fe4-22ad-a95dd8b7657e": [
+      "REALLY_DARK_URGE",
+      "WYR_OrinsImpersonation_State_MetOrinOnce"
+    ],
+    "5d159473-1c64-5cb4-4f90-253150930eda": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "5dd8e0fd-2b6a-e85d-8363-9feee045ced5": [ ],
+    "d41901f6-4e42-e150-1eb1-813692b18bd6": [
+      "REALLY_DARK_URGE",
+      "WYR_OrinsImpersonation_State_MetOrinOnce"
+    ],
+    "6b982392-9cbb-f953-89e3-7142d8e63e06": [ ],
+    "6a9d1043-8a79-aff7-99ec-4a9bc90b70f9": [
+      "WYR_Circus_LoveDryad_State_Question2Wrong",
+      "WYR_Circus_LoveDryad_State_Question1Wrong",
+      "WYR_Circus_LoveDryad_State_Question3Wrong"
+    ],
+    "6140d98f-fd74-f99e-f03c-d8f30fc76227": [
+      "ORI_State_PartneredWithMinthara"
+    ],
+    "9be8ab2d-e6e9-b78b-1779-9e573fd75ff4": [ ],
+    "69738776-d345-f36d-5e69-15a015e89f80": [ ],
+    "61b6e73d-1d1b-452e-4be0-bbcdb70e71d8": [ ],
+    "63af017d-4fb9-3754-3d7a-2e856ebcdc1e": [ ],
+    "63bbf21a-fc4f-a2ed-8faa-215b9c397954": [ ],
+    "665e9515-2d27-5a82-bbaf-a290e7dec6ba": [ ],
+    "51ec306b-9453-25ec-fa54-0802cedd2bce": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "51eb33d9-1ba1-15a2-e2fc-7ed492b4e68e": [ ],
+    "5211aefb-b6fa-a540-bd79-3161599800e1": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "51a6f3e0-2ece-053e-290e-c2a6c1029ad5": [
+      "FEMALE"
+    ],
+    "70bccd1d-4c76-426d-2256-0649819baf5a": [ ],
+    "3ed336c7-a1de-fc82-5e1c-0562d6951548": [ ],
+    "76291486-7c26-61f1-c161-977c812b8ebf": [ ],
+    "75542647-317e-9883-a83f-7be76b94455f": [
+      "ORI_State_PartneredWithWyll"
+    ],
+    "466802ba-a270-38d1-43ae-50c891990948": [ ],
+    "46a0dffe-1a2c-eba5-b2ec-cf66a425f1a9": [ ],
+    "46a9f270-f7c7-c9f5-644f-1629bf9dd9fb": [ ],
+    "48951c03-d55b-f303-f088-72ec8c4fb5af": [ ],
+    "48956c1e-25ad-8a62-a2fc-ced052fa8082": [ ],
+    "c97a94cb-644a-6e62-7f39-1106166e1fac": [ ],
+    "49fe3e73-dff1-8099-68fb-9a4174378a6b": [ ],
+    "4a79131e-17bd-c5e5-0df7-5d164eaff3df": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "4b1e1858-0d3c-5f30-8377-49eb768b1254": [
+      "FEMALE"
+    ],
+    "4c6b11b6-f6ea-1cf6-0271-1d3882cb2a24": [
+      "ORI_State_PartneredWithLaezel"
+    ],
+    "4bf1133c-4b3c-4713-4026-c355af7e38e1": [ ],
+    "738c67d0-a132-0dc3-7e49-6efd20e6cb9a": [ ],
+    "73bdf335-8232-211a-0207-cf0bca73e816": [ ],
+    "4ff5efde-6c16-1e0c-0444-ec5b07fd95d5": [ ],
+    "723d1a2b-6d5f-201f-ef78-817cba192b04": [
+      "LAEZEL_ORPHEUSPATH"
+    ],
+    "4fe76a10-dd12-dc52-3ec2-b9a62b19d962": [ ],
+    "73997c8c-0cef-0e1a-7ca4-8865fa2806b8": [
+      "Approval_AtLeast_50_For_Sp2"
+    ],
+    "a9955960-8a33-0733-c9b7-c686633310e6": [ ],
+    "4dd2edb3-8bc6-cf7c-00f6-00f3982d4070": [ ],
+    "4f638a4c-7488-edc0-41da-9a27e1e42ccc": [ ],
+    "4e8dd364-39d6-c9c2-bda0-c71e2d92ac8e": [ ],
+    "4f0c5171-7e7a-613f-f906-27ff676a3c0c": [ ],
+    "6840c0c1-f155-f726-958f-ffab7bce4f39": [ ],
+    "f2de91f4-283b-1f27-dea3-c9b2ae5d4051": [
+      "Approval_AtLeast_0_For_Sp2"
+    ],
+    "f7435ab1-7890-ccfc-c861-fc5cd4e44882": [ ],
+    "fc799564-5bed-e5eb-2858-086de8fd8fe5": [ ],
+    "05000d8c-e25f-45c6-c4e2-d77271d45c33": [ ],
+    "ae062d18-ff2c-252a-4e01-bf48554bb7db": [ ],
+    "f8083d2b-0941-fc91-320e-c123b05cf6ea": [ ],
+    "03e3ebac-1c9b-6792-e85e-ad5d5deff0af": [
+      "Approval_AtLeast_0_For_Sp2"
+    ],
+    "7208c28c-b89d-77aa-84e3-dd3608d18f7f": [ ],
+    "e19f47f1-bf4e-c79b-03f2-9eb1d3f95bc8": [ ],
+    "0b26664f-b2a7-e6e5-c657-6baf5ffa6db0": [
+      "Approval_AtLeast_0_For_Sp2"
+    ],
+    "3a838abf-b0d5-b7e8-e805-e547f3ef3ed0": [
+      "REALLY_KARLACH",
+      "REALLY_WYLL",
+      "REALLY_SHADOWHEART",
+      "REALLY_GALE",
+      "REALLY_LAEZEL",
+      "REALLY_ASTARION"
+    ],
+    "4548d46a-6668-d98e-7896-41be22c49e20": [ ],
+    "ad98b89a-5a38-3bfd-0158-f1e6d913191f": [ ],
+    "32357247-b58a-9d1c-f8e9-b87b5f62d426": [
+      "REALLY_KARLACH",
+      "Approval_AtLeast_0_For_Sp2"
+    ],
+    "a731af8c-488a-7e2b-a41e-7d29e1e22e0d": [
+      "Approval_AtLeast_0_For_Sp2"
+    ],
+    "a591ebaa-01ae-c0f4-6d5a-03f6cce3e755": [ ],
+    "a41b8eb0-0892-d18b-149a-f33e9ff4eeb4": [ ],
+    "20030153-175b-d09d-c28b-214050465475": [
+      "Approval_AtLeast_0_For_Sp2"
+    ],
+    "d9f2c8ad-e5e2-1682-aab5-1295bb4fe38a": [
+      "Approval_AtLeast_0_For_Sp2"
+    ],
+    "9df0ed36-3632-71c1-cc88-85713995c7c0": [ ],
+    "1b29f344-acf9-71b9-303e-5661edab4e21": [ ],
+    "1b094e42-6a5b-dd50-27b6-e1fd0f26a127": [
+      "FEMALE"
+    ],
+    "b462a410-4494-66d8-9324-cd0cb0a016b7": [ ],
+    "702d5327-b3f9-7754-a2db-966a1dbf8859": [ ],
+    "b51a9a18-aa69-919e-0785-8367e97a67e1": [ ],
+    "994cb119-2af6-f41b-a52c-a3527f8cd448": [ ],
+    "5ef67a31-03d8-0465-ef45-248be0055522": [ ],
+    "8f607bce-a9bb-3d84-d5ca-a704925d3333": [ ],
+    "144dc5e1-5c4d-d503-ad99-65ff063ef0b9": [ ],
+    "12656844-651f-c7b1-1fce-59744bd60139": [ ],
+    "6839b888-d6dd-4a99-92a3-db96bf251615": [ ],
+    "7899b9f6-fb16-fb00-e2ca-221b627a4384": [
+      "Approval_AtLeast_0_For_Sp2"
+    ]
+  },
+  "Lines": {
+    "11ab468e-8470-2bbf-7417-4dcc8f3d64e9": "There is violence afoot. Until it is resolved, I cannot in good conscience see any customers. Guard yourself, little one.",
+    "1bdceb3e-74f5-eb75-c919-52e217161dcd": "You return, <i>stira<\/i>. Shall I look into your hearts, yours and your beloved's both, and see if your love will stand the test of time? ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])",
+    "efe0f47c-654f-f1a8-d159-56d92a672682": "This city of stone and steel is an endless scream in nature's womb. I have felt no peace here. Until now.",
+    "de19c6e0-3dd1-49d7-83eb-bea9beb1940f": "This city of stone and steel is an endless scream in nature's womb. I have felt no peace here. Until now.",
+    "81a6a56c-0a66-5261-f47a-16fdc8427637": "There is a great love amongst you - Zethino senses it. Bring your leader to me, and we shall see if your love is that of ages.",
+    "ab2019e6-0980-ce07-d70f-41f17f1f397d": "You have already sought Zethino's guidance, little one. Nurture and protect your love - for it is one of life's most precious gifts.",
+    "4feebb41-673e-1f14-0993-fc517aca8f7c": "Violence erupts here - my home. My refuge in this city of stone and steel. Solace escapes me...",
+    "c1d267d5-25ca-ec12-39d5-f2089e21c761": "Your guise may fool the others, but Zethino knows your heart - you have already sought guidance. Let others have their turn.",
+    "f7d11005-0c21-46b6-83b6-0977611e954d": "You return, <i>stira.<\/i> I pray the hearts of you and your companion are ready - for love is a fragile blossom, and we will test its resilience. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])",
+    "ee8f4c82-ac90-3c55-4d6e-8f95d727b79c": "You return, <i>stira<\/i> - good. Violence is like fire - it burns all those in its path. I feared you caught in the flames.",
+    "cdc635fb-6d2c-0312-4d27-45ad52347ee3": "Do you wish to speak of love, little one? For Zethino is here to help - always. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])",
+    "5b4f21f6-9fc9-c697-e8ee-f114406386a3": "Your love may be wanting, little one, but your heart will find its path.",
+    "aae8e62c-18ec-7c8d-774e-fb13ed2d16a3": "A necessary step for my city's future. The Hells' fires ran red hot that day; I don't remember it fondly.",
+    "aa38f9b7-26a0-677e-4153-dff936b22a14": "A small delight, indeed. I did not want their friendship - I wanted their <i>fear<\/i>.",
+    "a6b993a0-9380-c482-9918-f359c3f0a869": "Do not fear - there is time yet. For our touch has been light, but now we must dig deep - deeper than any other.",
+    "a7de74d5-94f1-680f-d490-fe5758c26bf4": "You're not wrong, but do we need to tell every stranger we meet our business?",
+    "ab5543f7-2081-46ee-ed19-06a242ed6312": "You know me, you understand me. And for that, I'm forever grateful.",
+    "a54c090c-b396-d046-7265-a87bf20ba1a8": "Love blossoms in life's furies - you have formed bonds in this time, have you not? Trust. Respect. These are clothes that love dresses in.",
+    "a4b76105-0d87-87cf-4106-113a92668f80": "I press my finger to your bond and find a shield - impenetrable. It is... beautiful.",
+    "a9b8994f-842d-149c-0f46-2c0ec783487d": "The heart craves comfort, but needs <i>respect<\/i>. How does one earn the dark-haired maiden's respect?",
+    "0058cbab-7eed-e985-1a07-e83f70f5ef58": "<i>Consuming minds is mandatory for my survival. The process is euphoric, but it does not bring me happiness.<\/i>",
+    "adb28294-09a7-2824-d47e-4b6fe5e3c505": "Your eyes, <i>stira<\/i>. There is pain, endless and deep. But also devotion - blazing like the sun. You're in love, are you not?",
+    "acf7c2b5-3b49-1d42-df12-b4e9069a7f5c": "I should know not to underestimate you. You see me with clear eyes and open mind. ",
+    "a40fa9a4-ed61-d563-1c21-7a88126323d5": "Hardly. My association with you might be a contender after that attempt...",
+    "ae31cf70-8566-d3de-daeb-bb4088bd456a": "Well, that was a disaster. Can we call time on this farce? Please?",
+    "ae7f6f07-e392-9f09-460f-ef3c00b684b7": "Self-deprecation is not endearing. It is demeaning.",
+    "fc7fd455-9c9b-39cd-cc40-e0b433495a5f": "Gale: the learned wizard. The charming gentleman. The walking apocalypse.",
+    "ae8aa25f-b32e-87e5-076d-f5f4be09e592": "Listen. Think. If the wizard were given the choice, what food would he be?",
+    "ae91c146-046b-8240-b044-45c05eb6c6f1": "It's a grimace, sweetie. Not off to a great start.",
+    "af9fa1d2-654f-00f3-be24-94b5ee662730": "It pains me to hear you say it. We shared a bond, or so I thought. Does it mean nothing to you?",
+    "b08a5297-52c2-9d48-5da8-ad25f14a0cee": "I didn't think a little game would sting so much when I agreed to this... but you're right.",
+    "b08df6be-a5b0-ceab-57df-440d796f9b7b": "Bravo. That is indeed where my mind wanders to, when times are hard...",
+    "b13325c9-c134-494c-283d-9bcec7103908": "Our touch has been that of sunlight, but now we must ask the deep. The difficult.",
+    "b2ce404e-c211-7ebf-67c1-8635460c31e7": "Yes - a hero in all senses. A courageous explorer and a just spirit. Would that we all aspired to his greatness.",
+    "b5c55ca9-3520-81d7-18fa-09a573f83675": "It seems you've been paying attention to me - though there is always room for improvement.",
+    "b68e3246-a343-ebec-521f-df7ce2317a6f": "Yes, yes, yes! Let's do it!",
+    "b6954b66-a4fb-ce6e-f8c4-941d4b05e850": "<i>You did well. I am pleased that you would offer a mind flayer such attention.<\/i>",
+    "aca10713-b965-06c1-658d-fb5170d31812": "Cinematic - step 1",
+    "a3fcc612-59fc-cbb3-02d9-0afc49a3f997": "Once, perhaps. But those passions have soured.",
+    "ed32937b-aa6f-63ec-beb2-590dfc5a17c1": "Hearing it said out loud - yes, I fear it is true. Fate seems determined to make a sacrifice of me.",
+    "9d0687c8-8ef6-6f1d-6f57-6f0139a5bd0b": "But perhaps fate can yet be defied...",
+    "9f6f810a-0cee-2627-4ec2-b5a8396f259b": "Bah - my people already know liberty. Once, the illithids enslaved us; thanks to Vlaakith, we remain free.",
+    "7daad9f9-9585-4675-7ef3-95f947bf41f0": "A decade from now, what will the mighty Karlach do? Where will she be?",
+    "7de361dc-680b-cf84-c167-5706d33f1f91": "This is the truth - I live for the wilderness. Comfort is for the farm animal, snug in its pen.",
+    "ffd200d8-a005-fae9-6838-a3a4ebe3be42": "I see you. I see the bond between you. So tender. So fragile. But do you see it for yourselves?",
+    "81d8616d-a4f3-7dda-5dd0-fb61b25e724e": "I cannot, little one. I can accept truth, and only truth - and you know that is not what lies within your hearts.",
+    "b0076fff-87bd-a326-a067-dcb360ba361d": "Forgive me - I had not realised. My beloved, before she died, was a woman of great strength and fortitude. I called her <i>stira<\/i> in our quiet moments.",
+    "8234324e-efae-ee5b-95da-a809cf6f88ca": "You remind me of her.",
+    "82e01a23-cfcc-0f5c-5e28-29fccec0eb00": "Hardly. Astonishing that you'd even utter her name.",
+    "83d06d6e-c76f-f876-7395-f4e69964a3fb": "It is true. Surface food lacks flavour. House Baenre banquets were legendary.",
+    "84d33803-d20d-5ba7-1a03-4c3c82ef1723": "<i>Before meeting you, that was the highlight of my illithid life. I enjoyed it... and the company of Belynne.<\/i>",
+    "851213db-61ac-fa8f-a4c6-99ec641a23fb": "TO VISION EMPEROR",
+    "b5b75c96-ccd8-bade-aaa5-5b2c4084b80e": "I understand,<i> stira<\/i>. Do not fear; the eyes of others will be blind to us.",
+    "854960bf-099a-e075-4a8a-51a1638a09ae": "Have your beloved reach out to me. That will be enough.",
+    "861016a8-ad0b-4754-a064-834df8060e92": "I will carry the truth to my people, whatever it might mean. Only time will tell how I'm remembered.",
+    "89306136-e358-ffd5-6c69-efb5dc42ad0d": "Cinematic (staging - walked away)",
+    "89f7fbe1-86f0-b4f6-68ec-90c00d4f7d2e": "<i>As an illithid, mental chains are my weapon and my weakness. I will write my future as myself, not as a tyrant's puppet.<\/i>",
+    "8ad88957-f8f7-8422-5b79-f6215199d55a": "Not completely off the mark, but there's easier paths into my good graces...",
+    "8ae22b04-502a-b558-28f2-be31f9964c17": "Cinematic - companoin walks away",
+    "8b9800d8-54ac-5e64-67a5-c2ed5a648a92": "<i>I have lost my free will twice before. That nightmare will <b>not<\/b> plague my mind again.<\/i>",
+    "8bfb32f0-49f5-d260-fbd1-2a75a268ff63": "Kids, huh? I don't know. How about a really mean goat.",
+    "ad13b08c-7a3a-ece8-b81c-14c71c346aa1": "But... I don't know. Things can change I guess. I've heard.",
+    "8c4f67b2-7a6f-7f39-3b64-a2e78335265e": "A dreaded fear lurks in the oceanic depths of the Emperor's being. You must dredge for it - what is this deepest of all fears?",
+    "9083776e-d04b-938a-ba07-8b44215dfb4e": "Your bond tears but it does not break - have hope.",
+    "924f8ac4-fd1e-f8b6-6ba2-e5f717336f52": "We strive to do our utmost - to prove ourselves worthy. Tell me - of what is Halsin most proud?",
+    "92509b1c-ecdd-dbc1-2b75-f7c157dfb5ef": "A mug of nutty darndarr and a plate of cured meats? It's no Mount Celestia - but it's close.",
+    "9319df7d-5479-31da-5e95-b2f551cb1718": "Close your eyes, little ones. Be still as stone to earth. And remember to breathe.",
+    "982b7d3d-a6e7-d0c3-a360-26aef4d876b6": "Hells. Have I fallen so far from your favour?",
+    "98ef317f-1064-7feb-ada6-6a729ebc8a11": "All we have seen, all that has changed, and you still cling to old crusades.",
+    "9a08e334-98ed-7aba-a592-b40a0ef8a933": "<i>Yes.<\/i>",
+    "9a269097-1e82-dac1-363e-a3b38d944e93": "May he be at peace. We did not see eye to eye, but his every thought, every act, was in service to his people. Among men, there was none greater.",
+    "9b217933-9821-8c0f-c00a-5f4e42151254": "You waste time soft-soothing these flesh bags for the knife.",
+    "9b6b936c-d2dc-60eb-be1b-a8e93dd3ec90": "Bah - trivialities. Have you been so inattentive?",
+    "b8c17292-b24f-ecd1-5f41-489a9232322d": "The bond wavers, but we have only just begun. Have faith.",
+    "a1f51a4e-188e-ce9f-a61e-c194db1e8787": "You're very funny, did I ever mention that?",
+    "b8f615f9-99a5-109a-1fb6-7172e6d80fa8": "Life is a difficult and tumultuous thing. With every smile, a tear often follows. What is Wyll's greatest regret?",
+    "be0319f4-f14b-d114-37af-3a155009971e": "I think not. The gods are more fickle than the fools who follow them.",
+    "ba6c3930-677d-c6be-a2f5-eed90c8339ed": "An illuminating exercise. You've listened, if not always with both ears in attendance.",
+    "e5460c46-b7f2-36ca-8f0b-6f2405c3d8a3": "Well... You were right every time. I almost wish you hadn't been, but you do know me...",
+    "e65c44cb-5108-dfac-f77e-95f8b2272d24": "Those with an icy façade hide their true selves well - but pain breaks us all in the end. What is the worst thing your love has ever done?",
+    "e885177f-0fed-f94a-bdd5-dcee843b4f1f": "<i>My relationship with Belynne was... complex. While I mourn her, it is best to leave those days in the past.<\/i>",
+    "e8edd18b-675a-5507-2e4f-42e4bb55ff86": "Many things delight the heart, but only one makes it sing. Tell me, what does he desire more than anything?",
+    "e96346e3-fdbc-2fd0-9964-a7b8a5275789": "<i>The taste... even now I recall it. I mourn its referent: a life of companionship and joy.<\/i>",
+    "ea40c64f-a88f-900b-5345-d6a25c7dadf7": "Vlaakith <i>is <\/i>the githyanki. I would never deign take the place of my Queen!",
+    "ea820236-8182-4d35-0ed5-42cca0ce91a3": "You know me too well.",
+    "ead5ab88-65ea-ea70-c0f2-5e40aeb36209": "Fear sits in the soul of all - to tame it, we must <i>name<\/i> it. Astarion - what is his deepest fear?",
+    "eb9c962a-c5a6-9e2e-91a9-958a60080b84": "If I admired nobody I would travel alone. <i>You<\/i> have earned my admiration. And more.",
+    "ebcac577-6bde-5c22-af5c-ec14dc149119": "I'm not opposed to a bowl of something mysterious and rib-sticking, but I certainly don't <i>identify <\/i>as one.",
+    "ec29e2f1-a8ed-de1f-5a06-637e50c04de9": "Honestly - probably. But hopefully not any time soon. I've got a lot of living to do yet.",
+    "ed41ba4b-82b2-cb9f-df40-2383e085b7fe": "Cinematic",
+    "eeafe033-b790-a0c2-f03f-bae00b499444": "I would never!",
+    "e4ab3fea-3b1e-14b8-a6aa-7379336d4e44": "Never. That you live, that you walk this path, is a delight worth celebrating, not lamenting.",
+    "f0ece763-56c0-3a8b-cfcd-a4dd37e5d082": "There is a hollowness between you, a void that your futures may come to fill with darkness.",
+    "f1111ce8-6b5f-9228-f6a6-a2fb77aa530f": "A perfect score - I'm flattered. Have you been studying up on me every night at camp?",
+    "f11f1a9e-dbb4-2f58-5f45-161067c83967": "Oh you're very sweet. I wouldn't say no to some gory vengeance personally, but that was an adorable answer.",
+    "f1e95397-5f28-8309-181e-a1b7aa7e002b": "A fateful night. I'm not apt to forget it - or who spent it with me.",
+    "f47d98c7-aa73-404b-18e2-259bebe232bc": "A perfect score. It seems you know me better than I know myself.",
+    "f544dcab-2d44-2796-2f17-4783b4b2a312": "A fair assumption. Perhaps not the truest answer of all, but still in good judgement.",
+    "f6ef4752-9cc5-0466-a7f9-41efe5fa0863": "You did pretty well there, soldier. I have to say, I'm impressed.",
+    "f94accf6-a0b2-a898-e466-b5df3b45a0ed": "<i>Have you not been listening to me? I have made my appreciation of this form clear. I would never return to my old body.<\/i>",
+    "f9727cd8-a8d8-e4ac-c5a6-683f9a43f28c": "Our touch has been that of sunlight. But now we must look beyond - to the uncertain. To the future.",
+    "fa64c443-f6b4-ba8f-f31d-4c35cb423bd9": "Just the sound of his name makes my blood boil - probably literally. Can't stand the fucker. Ding ding.",
+    "fb550195-17e1-a400-455b-a11210c6fe69": "Indeed. You were a source of light among shadows. Still are, for that matter.",
+    "fbd93751-ae5d-1138-7aa8-6a4083d549f6": "Quite right. This is my fate, wrought by loyalty, entrusted to Vlaakith.",
+    "fcc34b43-1fed-3933-2518-7c2644c27ac5": "Cinematic - Step 2",
+    "ffb04ed6-2404-7343-2ad8-ba1da6bb12ad": "A source of pride, true. I can think of greater feats, but that one is cherished all the same.",
+    "f0fc723e-c540-f3ec-52f4-cb3a2de50a89": "Many things delight the heart, but only one makes it sing. Tell me, what is her idea of a perfect day?",
+    "b9ecfa9b-4ccd-774b-9fd6-3e10e61ade38": "<i>Please. <\/i>I'd rather spend my nights with a drider than with that do-gooder and his pussycat.",
+    "e3b81464-4a60-f8c1-fddb-c475d596417c": "There is no need for secrecy here. You wear your truth so close to the skin.",
+    "e09bf085-5f40-1245-25d5-6c67217f6bd4": "No... that wasn't my most glorious moment, but my greatest failure? Far from it.",
+    "bc8f39a5-4a89-a09e-0dc9-2e888ea73ada": "You make me sound like some preening peacock. I am not <i>that <\/i>bad.",
+    "7c4ceccd-00a9-3a84-58ed-e016f7255edf": "I had always kept my heart hidden, but I allowed you to see it. To see me. It saddens me that you saw a stranger instead.<br>",
+    "be3dfad5-c31e-f52e-5c7e-3648db4323f0": "I'm flattered, but pick another. Watching the dryad make you cry will be entertainment enough.",
+    "be81bb98-11b2-82ca-0ea4-ad8cdb17cd65": "The Hells threatened to swallow the city. I made the only choice I could.",
+    "bee2c183-6f27-0a69-41f2-af7d67d5f5a1": "Cinematic - companion moves closer",
+    "c204823a-d240-c86e-70cc-312eee999e81": "Your bond a seedling - one that needs a gentle hand in its tending. Nurture it and it will become a great oak, in time.",
+    "c212635f-6c31-f1e2-851b-48571e23abc3": "Shame sits in the soul of all - to tame it, we must <i>name<\/i> it. Shadowheart - what is her deepest shame?",
+    "c610c22f-c73b-10ef-c152-36bc4ba0ebeb": "Scholarly pursuits are important... but my heart lies elsewhere.",
+    "c7dbe9c4-aa78-7837-3a4f-6fb355d73426": "I have to say, you know me better than I thought. I'll have to be more mysterious in future.",
+    "cc5f5a89-c643-1c6f-6601-faf18dc041e4": "Love, is it? I hadn't realised I'd bowled you over that much. Give it a try, then - impress me.",
+    "cda0177c-b12c-0a3b-292c-226263b01465": "Indeed. We've not always seen eye to eye, but his every thought, every act, was in service to his people. Among men, there is none greater.",
+    "d1e94951-372d-f3e9-58a7-0ea520b6138d": "I had high expectations, but even still, I am impressed. You may know me better than I know myself.",
+    "d28d93ad-1180-24fb-7fb8-9bcb4a296dc4": "She's the worst of the worst. I suppose a devil can't help her nature, but she's got a really godsdamn bad nature.",
+    "e1b8b9eb-1f30-c566-6a13-7f23b935c5db": "We often gaze through a veil of roses, but love accepts both the petal and the thorn. Gale - what is his greatest flaw?",
+    "d2e9a3a6-f0fd-10f5-f5ed-71ef1879601c": "All affections face their trials. Your bond quivers, but it does not yet break.",
+    "d396be7d-f2eb-4c44-cb05-e419c6c8828a": "Ah. <i>Glorious<\/i>. Your bond is sweeter than nature's dew. I see you. <i>Know<\/i> you. But do you know one another?",
+    "d40cdc34-ed14-9ef5-aca4-83e4a9d9f38b": "Life is full of victory and loss. You cannot have one without the other. Halsin - what is his greatest failure?",
+    "d56d0293-96ef-5e97-4cad-375d25796f0b": "Cinematic (staging - close)",
+    "d5a7df78-6a1c-5f72-4acc-42e7a962f953": "An... unfortunate result. Perhaps we should not have partaken.",
+    "d6d39c5f-558c-049a-83b8-1d0749a88c10": "Look at it, come crawling home, hands stained with the Bone Lord's soot. And you carry his stone.",
+    "d73d8a98-d806-bd18-ef03-ddb946335415": "Without Lolth or the Absolute, I am free for the first time. Some may call it exile, I call it independence.",
+    "d8c57f15-ac83-3d05-d7bc-d445b2ace82f": "You didn't do abysmally, I suppose. That's worth something.",
+    "dc04556f-824b-4fb4-6c0d-1f16706c3163": "Very good. (Just don't say it so loud.)",
+    "f4595985-d87e-75fc-cc31-f58d974f913f": "The Emperor: a beloved adventurer, a shunned illithid.",
+    "dddc2b78-7a55-9506-8e9b-efaa3c0db967": "His life is a sea of success and failure, joy and woe. Let us begin with the light. What brings him the most happiness?",
+    "de5fb4bd-79f8-af09-2746-a7e887edbff1": "Urgh, really? Of all the things you could think of - that?",
+    "de638537-9e3b-d77a-bbcd-911f42e63ded": "An apt metaphor - though I hope it won't lose me some kisses.",
+    "deeed549-b481-1822-b9ca-08eff45015ce": "Together we've shed blood, shared words. Yet you've learned so little.",
+    "dffcab63-0c62-e590-307c-80d00ae71e22": "The sweetest loves dance lightly on the tongue. But now we must dig deeper. Into the most painful reaches of the spirit.",
+    "d3151f65-4d1c-8c32-f0b6-d7a11843a40c": "There is a hollowness between you, something brittle and strained. We must dig deeper. Grasp the pain hiding within.",
+    "af8cb7b3-0775-2a90-6b53-4109723ff4f3": "<i>An interesting diversion... I will indulge.<\/i>",
+    "7b503ad1-bcca-c369-81ca-9e49317ddc39": "<i>Though it would be inadvisable for an illithid to step out of an astral portal in the middle of a crowded circus.<\/i>",
+    "80f69a0d-b5e4-ef7b-55f8-7773ab8ae759": "It can't hurt, I suppose - unless you embarrass me. Then you might find yourself hurting in a whole manner of ways.",
+    "37061c5e-6885-5619-2eb0-8b230f3c33c4": "Halsin: nature's gentle steward - and furious defender.",
+    "fed911d7-d81d-7f68-ea09-cc2450a79d72": "Listen. Think. When is he most comfortable?",
+    "1df14144-da67-f50a-2253-e3b19058083d": "You let such ruptured creatures swim in your blood wake. One little skull poke and you forget how to drown them.",
+    "92385309-902e-abd2-7959-c8707175c5fa": "Astarion: a tumultuous past hides behind a mirthful grin.",
+    "1f3828fc-1f06-80dd-d123-d3fa55552ab7": "The heart is fraught, so let us begin with the joyous. When is he happiest?",
+    "21b5a094-0672-0fdb-cd33-91e365b33f7e": "The Emperor's shores know well the waves of loss - what does he miss the most?",
+    "24cca976-1b62-8e0f-fcd7-d1285dd6bd29": "Oh I like that answer. Yes, let's go with that.",
+    "2619e866-af60-388f-16b1-b497780ac5f9": "Hah! Absolutely. This is gonna be great fun.",
+    "2a12c04d-0322-3f5b-1f59-92843c0dd897": "Well observed. There is no fouler scent - and no <i>sweeter<\/i> - than that of a neogi's blood.",
+    "2b53b88a-ff1d-c5a7-d568-973a34ec8e29": "Many things delight the heart, but only one makes it sing. Tell me, what is the githyanki's fondest memory?",
+    "2b54d5e7-25d5-a6db-cf6a-21023aeba96a": "Lae'zel: passions of the heart and the blade wage war in her soul.",
+    "75fd8585-0e2c-60dc-4523-a06817e3e030": "Listen. Think. What does she most desire?",
+    "2ddeff22-0948-2ef2-387a-d97239a1d729": "Bring the one you love to me. I will look into your hearts and see if your love is eternal. Or doomed eternally. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])",
+    "2f8f9736-dbb3-cd41-bf35-60dd8f9963c7": "You'd have been right, not so long ago. But things have changed - a different time, a different Blade.",
+    "2fd3a889-2090-c405-e7a1-175f23171650": "Oh my love, how could I say no?",
+    "306f51a2-03ae-5f23-cc8b-1eadcc8636dd": "<i>A disappointing performance. Despite our mental bond, you do not understand me.<\/i>",
+    "30f7584d-8d66-60dc-c975-bbe1368060c9": "This was good fun! You know me fairly well, it turns out.",
+    "1dbd037a-ab02-e120-f456-86ac3a8c98e1": "<i>I can. But the portal would be questionable enough.<\/i>",
+    "31b5f58f-4c6f-7929-4022-760c5504d2d1": "Do you think so little of me? At least you didn't compare me to a spotted dick...",
+    "3294e28f-e09a-1e23-22a3-49cc6bc38515": "Thoroughly magical. Let's have at it.",
+    "33c6136e-1c3f-f9b1-de10-2cc0ff7eed94": "No, you are mistaken. Rejecting unwanted advances is no failure, even if it earned me some scars.",
+    "34102f4f-6795-eac1-4f6d-5f9e3951b502": "I see you. I see the bond between you. So tender. So fragile. But do you see it for yourselves?",
+    "8d62ca1c-ea07-265b-f8e1-809482dc6060": "<i>Ansur... I miss the affection he offered me before my evolution. In the end, I brought him only unwarranted sorrow.<\/i>",
+    "3467d0df-bf81-d811-2942-589c583af98e": "<i>A reunion now would end as poorly as it did then. Neither he nor I should relive those final days.<\/i>",
+    "34c7f596-e611-2f03-7bff-629f6e7b358d": "<i>How little you must think of me. I do what is necessary, regardless of whether or not it brings me joy.<\/i>",
+    "35b882c6-0626-7f7b-f172-da9124e7e2ee": "I will be feared, this much is true. As a monster? No. As a champion? Most certainly.",
+    "361e811a-4c69-1759-e51d-9c6d6e083d35": "How close you are. Two hearts beating a perfect rhythm.",
+    "9017863d-d212-cb4a-b7bf-5a0f9484da68": "But I know the truth. Only one face haunts your dreams each night. Close your eyes, sweetness, and she will come to you...",
+    "7acab6b2-50e2-f591-61a6-3a063bd75235": "No, that is not right. My body is but a vessel to serve nature with. To take pride in it is to indulge in vanity.",
+    "39023617-8bc2-066d-ea97-f4a624dbf986": "Many pass through our lives, their touch rippling across time. But who does Minthara admire the most?",
+    "3933f6d1-b7c6-a263-b5ba-52cfc8cd0106": "The heart is fraught, so let us turn to the joyous. When is Gale happiest?",
+    "39991d5e-3e88-7817-408a-65e20ec1f91c": "<i>My food replenishes itself. I am not concerned with its quantity.<\/i>",
+    "39a1e767-1b16-ca80-3bc2-2270bb1ae29f": "Really? I mean, yes, but - really? You'd tell whatever stranger just walked up and asked?",
+    "3b17f45f-f222-474a-ecd7-330205c7dbc5": "<i>You have studied me. I am... flattered. Few have known me so well.<\/i>",
+    "32878e07-d638-7b22-6222-343e9461b87d": "You know my heart, and I am glad. You are the first.",
+    "3ce72681-84eb-bce6-9612-94848dfc2fcd": "Yes - a hero in all senses. A courageous explorer and a just spirit. A pity to see what's become of him.",
+    "1d6ac943-0638-682b-4c0f-83adc60e7f8a": "Hm? Oh, the dryad is comely enough - but you? Don't poke at questions you don't want the answer to, cub.",
+    "1ad00b2b-9bea-faab-3f24-8065c34920ae": "That which needs to be said is often the most difficult. Take pride - you are one step closer to conquering your fears.",
+    "d0297885-0faf-d396-6ea7-2f2fa86d62af": "Minthara: a mask of ice hides a heart of pure fire - you do well to call her close.",
+    "00989c9c-4007-3ec7-699d-89dd92bb63ad": "Listen. Think. What does the drow miss most about the Underdark?",
+    "00c20e35-b4eb-10b5-4721-3bb78f2c5c24": "Hear how your bond thrums with pleasure. Strong. Vital. Pulsing with affection.",
+    "017eb017-0d5d-30f6-60ae-7cd380529667": "He gave me no choice. But it's true. I often wonder - what if I'd said the right words, made the right promises?",
+    "b598f9d7-09df-2384-0028-2ea49a1bd7f2": "Maybe I'd have been with him on the journey from Elturel. Maybe there'd be no Absolute, no infections, no... <i>this<\/i>.",
+    "01ed0cce-6c85-ebcc-ed53-f4947a9c78b2": "<i>My time with you has proven that to be true. It has been too long since I have enjoyed such a privilege.<\/i>",
+    "022a0e74-aaa9-fdf0-c9c7-12c7cb4e514f": "Perhaps not my greatest failure, but a sizeable one, yes. My faith in Kagha showed... poor judgement, put mildly. <i>Very <\/i>mildly.",
+    "02bb1a02-6b5c-40dc-93a8-d57a118b3962": "You betray yourselves. A bond based on lies will one day be severed.",
+    "0456990e-d240-f7de-8e44-473e7e8e085d": "It is true. Nature suffered, while I dawdled, and allowed myself to be distracted.",
+    "e06034cd-6e3b-b596-cfce-b955956532e5": "The curse is no more, true. But imagine if I had been faster, bolder, <i>better<\/i>. Lives would have been saved. More than I care to count.",
+    "3cf4ecb5-4f03-2fc4-69d1-0c2f31dfe596": "But I must move on. Nature demands that I do.",
+    "1f038953-4fee-48f1-c9d9-1db3c5d7ab10": "I do not know what weakness of mine allowed them to take me. ",
+    "0617e41a-a769-5ebc-2182-56f995f87c5d": "That haunts me more than anything they did to me.",
+    "06ebe617-0139-fb2f-3b07-8fd212919e4e": "Gladly. We each know the other's heart to the fullest - there is little to fear here.",
+    "072eedf1-d73e-423a-63ea-cc6c6c755b71": "Her face still haunts me. If I could make the sun rise in the west, reverse the Chionthar's waters, I'd spare her my folly.",
+    "076d4e3c-ceb6-663e-2674-c767dc452d95": "I'd rather have my horns yanked out with a tweezers. Come on, give me a little <i>action.<\/i>",
+    "08431052-482d-7d2b-a634-9ac8b73f4c89": "I have worse failings, I fear. Far worse.",
+    "0b13cbc6-fc75-46a5-ba52-8954da3e87ae": "I thought you may have bestowed the honour on someone else. But if this is what you wish, so be it.",
+    "1b590a6f-011f-3986-4bb9-9bfcd9c153cc": "...Boo? Does our friend know another Minsc? One that they might be courting, perhaps?",
+    "0bb29b1d-9ff7-d288-1477-797330cff964": "Oh yes. Yes please. ",
+    "0e10dd8d-8597-0a50-94b6-16aa3c561f41": "This wretch following in your worm wake won't help you. Your bond is brittle, the kind the tyrant longs to break.",
+    "a391dc6c-2f6f-93b6-a0c2-bde892082b2d": "So you're the lickspittle who crushed the Bone Lord's thrall.",
+    "1197063d-ea27-7233-2045-b7d3a7493acd": "Have you come beg-begging, sniffing for our stones? Gortash won't like that. A throat his black hand can't choke the spit from. ",
+    "11e71c79-af78-3b58-5650-d84619a923b9": "Ha! Well, when you look this good...",
+    "12962104-9fed-add4-64f0-874d5236dd11": "Your bond will not save you. He will wrap its cord around your neck and make you swing from it.",
+    "1625bc1a-0d42-0fe7-a20a-153e8d899251": "<i>The highlight of my old life. I must admit, these past months have reminded me of its thrills.<\/i>",
+    "1679fc40-b912-be6d-0017-51a49d3ddc15": "I've had a little stone caught in my boot the last while - clearly that makes for a better travelling companion than you do.<br>",
+    "172b795c-479c-691d-4769-59c66fa4ec51": "Karlach: her fire within can incinerate an enemy or warm a beloved.",
+    "1c380e53-c80c-c52f-ef52-c2497f7bf2df": "Listen. Think. Who does she loathe above all others?",
+    "176da9ad-f942-a7ab-2872-71029b945dc7": "<i>I am fond of my body, yet its appearance renders socialization... difficult. Others are quick to form opinions of me based on it alone.<\/i>",
+    "17c48198-ed78-7c31-18ac-83af5e232412": "I see. Are you sure you don't want to quit while you're behind?",
+    "19887451-24d5-54d6-5d0c-468db00084dc": "This is the truth. I sense I will never surpass that moment, when nature awoke from its nightmare.",
+    "1995fbe6-962f-eba8-1cce-fc70e896de97": "What would you know of K'liir? I trained, I studied, I excelled. I had no need of friends.",
+    "1a26a807-0bc5-f96f-6b34-d31ed32dcf47": "Nonsense - my faith remains strong. Do you think so little of me that you'd believe this?",
+    "1ac53e2e-df8f-41dd-898b-7c7e28f10257": "Yes. But be warned - I play to win.",
+    "0db724bd-0503-e913-f25b-26207ee70d6c": "You know me as I know myself. Glory be to my queen.",
+    "3d2fc8e5-d141-f2ee-c406-2e78139e9530": "The sweetest loves dance lightly on the tongue. But they sag and suffer with age. The future brings many trials.",
+    "fb0a8155-c0cd-40aa-b817-97643312ea70": "No - we acted justly. That Karlach still lives is a delight worth celebrating, not lamenting.",
+    "3e4f1282-372e-8682-abb3-809b9352b8cf": "I barely remember the grove... I was not myself. But my only regret is that I exerted myself in the name of a false god.",
+    "66eb7e6f-5d8e-3a20-3f9c-acc1cf9000dd": "You understand me almost perfectly. Only my late mother may have bested you.",
+    "53318c5c-df75-313a-30a9-1b2e107c769c": "I would not be ascended - not by my own will, and not by Vlaakith's. Are you truly so indifferent to me?",
+    "711ecae5-6c75-b341-16d5-3ca896ab5035": "Minsc is flattered, but surely you must know that his heart is already of the hamster shape. And twice as fuzzy.",
+    "5343e1d2-a66d-d27a-54bc-97d5f66cb301": "Spiders are Lolth's creatures - as was I. Her cult controlled me just as the Absolute did. Not a pleasant memory at all.",
+    "53ba377f-0177-f41e-80a7-b9e8425a61a5": "Why not? Could be good for a laugh.",
+    "53d9500a-cbcb-7ec3-7bf7-b26e37035220": "<i>You insult me. I may be illithid, but that does not mean all I think of is food.<\/i>",
+    "54692176-709a-d896-5cbb-363ee7fb48e6": "Ah. <i>Glorious<\/i>. Your bond is sweeter than nature's dew. I see you. <i>Know<\/i> you. But do you know one another?",
+    "3e3db696-30cc-e2e6-5b95-84e9febdde87": "She's nice. But I'm more of a sunlight girl myself.",
+    "56fe2434-66f4-aad1-2851-c2c207980865": "Life is brief - finite. When the warrior dies, what legacy will she leave behind?",
+    "6ed7c934-f0d8-7414-ca8d-d87e93bf2537": "Oh I'm the one you love? Well my dear, how could I say no?",
+    "59885155-2877-7694-dc67-18ce791a161b": "Mindless gorging...? No, that is not right. I did not realise you thought that of me.",
+    "5b8f5a2a-0531-55c5-4505-f55110f91821": "I suppose we've braved greater dangers together than public embarrassment. Do as you wish.",
+    "5bafd663-a297-2fe4-22ad-a95dd8b7657e": "I see how you slip-slither closer, belly dragging in the filth. Father is <i>laughing<\/i> at you.",
+    "5d159473-1c64-5cb4-4f90-253150930eda": "Are we finished? You were only mildly disappointing. Well done.",
+    "5dd8e0fd-2b6a-e85d-8363-9feee045ced5": "Not just siblings. Androcide, senicide, avunculicide - I only regret I left before enjoying a matricide. That would be a memory to cherish.",
+    "d41901f6-4e42-e150-1eb1-813692b18bd6": "Still rolling in the muck, I see.",
+    "6b982392-9cbb-f953-89e3-7142d8e63e06": "Gortash knows you are coming. Knows you have the Bone Lord's stone. Do not let him hiss hot air into your worm-weakened brain.",
+    "6a9d1043-8a79-aff7-99ec-4a9bc90b70f9": "You really know me, don't you? It's wild. In so many ways, we barely know each other. But where it counts, you're deeper in my head than that tadpole.",
+    "6140d98f-fd74-f99e-f03c-d8f30fc76227": "I know my heart - and yours - better than this creature ever will. But we can indulge it if you wish.",
+    "9be8ab2d-e6e9-b78b-1779-9e573fd75ff4": "Shadowheart: an endless storm surges behind sharp eyes.",
+    "69738776-d345-f36d-5e69-15a015e89f80": "Listen. Think. From where does Shadowheart draw comfort on a cold, dark night?",
+    "61b6e73d-1d1b-452e-4be0-bbcdb70e71d8": "Guilty as charged. Sometimes literally...",
+    "63af017d-4fb9-3754-3d7a-2e856ebcdc1e": "Presumptious. But not inaccurate. You have earned my companionship - that is no easy task.",
+    "63bbf21a-fc4f-a2ed-8faa-215b9c397954": "Well. I think we've proven here today that we really don't know each other very well, do we? Ah well. There's time.",
+    "665e9515-2d27-5a82-bbaf-a290e7dec6ba": "Excuse you! I think not. Not ever.",
+    "51ec306b-9453-25ec-fa54-0802cedd2bce": "<i>Chk.<\/i> I don't see the harm.",
+    "51eb33d9-1ba1-15a2-e2fc-7ed492b4e68e": "We cannot live this life without others - others to guide us. To aspire to. Who does the Blade most admire?",
+    "5211aefb-b6fa-a540-bd79-3161599800e1": "You confuse fiction for fact. Even at my most loyal, I never longed for the githyanki throne.",
+    "51a6f3e0-2ece-053e-290e-c2a6c1029ad5": "Your bond is false, and I know why. Because your heart belongs to another.",
+    "70bccd1d-4c76-426d-2256-0649819baf5a": "Close your eyes, and she will show herself to you.",
+    "3ed336c7-a1de-fc82-5e1c-0562d6951548": "Cinematic",
+    "76291486-7c26-61f1-c161-977c812b8ebf": "I suppose I should be grateful - you helped me shed any illusions that you've been paying attention.",
+    "75542647-317e-9883-a83f-7be76b94455f": "I'm more than game. Let's do it.",
+    "466802ba-a270-38d1-43ae-50c891990948": "Ah, the fruit of scholars. How I long to have a troop of loyal students grace me with apples by the orchard-full in exchange for wisdoms imparted...",
+    "46a0dffe-1a2c-eba5-b2ec-cf66a425f1a9": "Pleasant, <i>vivid <\/i>memories, yes. But my greatest source of pride? No.",
+    "46a9f270-f7c7-c9f5-644f-1629bf9dd9fb": "Love's forms are boundless. Nature cares only for the strength of a bond, not the shapes of the bonded.",
+    "48951c03-d55b-f303-f088-72ec8c4fb5af": "Everyone loves - even those who wrap their hearts in stone. I can help you see that love more clearly.",
+    "48956c1e-25ad-8a62-a2fc-ced052fa8082": "Excuse me? I've been happy, thank you very much.",
+    "c97a94cb-644a-6e62-7f39-1106166e1fac": "I'm not right now, but whose fault is that?",
+    "49fe3e73-dff1-8099-68fb-9a4174378a6b": "Well put. Though I'll forgive a middling wine so long as the company makes up the difference...",
+    "4a79131e-17bd-c5e5-0df7-5d164eaff3df": "Fine. But if this creature can truly look into my heart, it best be careful what it reveals.",
+    "4b1e1858-0d3c-5f30-8377-49eb768b1254": "Your bond beats in pleasure. It is an honour to behold.",
+    "4c6b11b6-f6ea-1cf6-0271-1d3882cb2a24": "Mm. I took my pleasure, and it was done. I've devoted few thoughts to it since.",
+    "4bf1133c-4b3c-4713-4026-c355af7e38e1": "<i>I enjoyed the fame then. Now I see it for what it is: superficiality.<\/i>",
+    "738c67d0-a132-0dc3-7e49-6efd20e6cb9a": "<i>This is my city. But I do not need its approval.<\/i>",
+    "73bdf335-8232-211a-0207-cf0bca73e816": "I'd be highly entertained if he choked on a button. But I don't <i>hate <\/i>him, per se.",
+    "4ff5efde-6c16-1e0c-0444-ec5b07fd95d5": "<i>I remember her love to this day. I cherish it still.<\/i>",
+    "723d1a2b-6d5f-201f-ef78-817cba192b04": "You hear my words, you see my path. It is good to be <i>known<\/i>.",
+    "4fe76a10-dd12-dc52-3ec2-b9a62b19d962": "I suppose I should be grateful - you helped me shed any illusions that you might have been paying attention. <i>Thank you<\/i>.",
+    "73997c8c-0cef-0e1a-7ca4-8865fa2806b8": "Well, if you insist...",
+    "a9955960-8a33-0733-c9b7-c686633310e6": "Wyll: the courageous heart tormented by the infernal.",
+    "4dd2edb3-8bc6-cf7c-00f6-00f3982d4070": "Listen. Think. What, on his darkest day, would make him smile?",
+    "4f638a4c-7488-edc0-41da-9a27e1e42ccc": "There was no love to be found. My mother would have poisoned her own milk to torment me.",
+    "4e8dd364-39d6-c9c2-bda0-c71e2d92ac8e": "Truly spoken. All he'd done for Baldur's Gate, for its people... He earned a better fate than the one Gortash gave him.",
+    "4f0c5171-7e7a-613f-f906-27ff676a3c0c": "You are wise to admit it. When it comes to love, vulnerability is armour. Truth, a sword. And trust, a shield. I pray you wield all three, <i>stira<\/i>.",
+    "6840c0c1-f155-f726-958f-ffab7bce4f39": "I suggest you stop speaking - for your own health, of course.",
+    "f2de91f4-283b-1f27-dea3-c9b2ae5d4051": "You flatter me... but also overestimate our bond, I think. Perhaps there is another you can turn to.",
+    "f7435ab1-7890-ccfc-c861-fc5cd4e44882": "I await with a heart full and happy - eager to begin.",
+    "fc799564-5bed-e5eb-2858-086de8fd8fe5": "No thank you. Sounds as appealing as milking cottage cheese directly from a geriatric cow.",
+    "05000d8c-e25f-45c6-c4e2-d77271d45c33": "Your love is one few have - cherish it.",
+    "ae062d18-ff2c-252a-4e01-bf48554bb7db": "Go in peace, seedlings. And know that you made one whose heart was long quiet beat with love anew.",
+    "f8083d2b-0941-fc91-320e-c123b05cf6ea": "No. And if you refer to me as 'my dear' again, I will cut out your tongue.",
+    "03e3ebac-1c9b-6792-e85e-ad5d5deff0af": "I say you'd better start looking for your true love, because it's not me.",
+    "7208c28c-b89d-77aa-84e3-dd3608d18f7f": "Remember - his throat spits lies, but my blade carves the truth. You will read it on your skin soon enough.",
+    "e19f47f1-bf4e-c79b-03f2-9eb1d3f95bc8": "Nature is my true love. You, I merely tolerate.",
+    "0b26664f-b2a7-e6e5-c657-6baf5ffa6db0": "I don't think so. But I appreciate the offer.",
+    "3a838abf-b0d5-b7e8-e805-e547f3ef3ed0": "Bring the one you love. I will look into your hearts and see if your love is eternal. Or doomed eternally.",
+    "4548d46a-6668-d98e-7896-41be22c49e20": "No. Just no.",
+    "ad98b89a-5a38-3bfd-0158-f1e6d913191f": "Your words are cruel, but your heart quivers. Love is a tangled forest - there is no shame in seeking guidance. Think on it.",
+    "32357247-b58a-9d1c-f8e9-b87b5f62d426": "Mmm, I don't think so. Seems a little... I don't know. Just no.",
+    "a731af8c-488a-7e2b-a41e-7d29e1e22e0d": "Perhaps you're overestimating my affection towards you a tad? You'd better seek a partner-in-embarrassment elsewhere.",
+    "a591ebaa-01ae-c0f4-6d5a-03f6cce3e755": "When you find the lordling, tell him Orin is watching.",
+    "a41b8eb0-0892-d18b-149a-f33e9ff4eeb4": "What do I say? Melon... donkey... sunrise? Whichever words will get you to leave me out of this.",
+    "20030153-175b-d09d-c28b-214050465475": "The creature need not look into our hearts to see that I barely tolerate your existence.",
+    "d9f2c8ad-e5e2-1682-aab5-1295bb4fe38a": "Not today. Or any other time, come to think of it.",
+    "9df0ed36-3632-71c1-cc88-85713995c7c0": "With you? Please. That story's written in stone, and it ends with you on one side of the world and me on the other.",
+    "1b29f344-acf9-71b9-303e-5661edab4e21": "Do not worry, slaughter kin. My blades are still sharp and sweet. They will greet you soon enough.",
+    "1b094e42-6a5b-dd50-27b6-e1fd0f26a127": "A pity. I thought your bond a mighty oak. Instead, it is kindling - a brush of fire shall make it crumble.",
+    "b462a410-4494-66d8-9324-cd0cb0a016b7": "But do not despair, seedlings. You are young - you will find love.",
+    "702d5327-b3f9-7754-a2db-966a1dbf8859": "It will simply not be with one another. Farewell.",
+    "b51a9a18-aa69-919e-0785-8367e97a67e1": "Wait, I'm the one you love? Oh no - oh that's so sad.",
+    "994cb119-2af6-f41b-a52c-a3527f8cd448": "But no, there's absolutely no way this is happening.",
+    "5ef67a31-03d8-0465-ef45-248be0055522": "<i>I'm sorry, but one of your other allies would be better suited for this.<\/i>",
+    "8f607bce-a9bb-3d84-d5ca-a704925d3333": "I could end it now - but I'll be patient. Father will see us together again. He will see you bleed.",
+    "144dc5e1-5c4d-d503-ad99-65ff063ef0b9": "Return a time anew. With hearts, as well as pockets, full.",
+    "12656844-651f-c7b1-1fce-59744bd60139": "I'd sooner slice off both my hands and feed them to a rabid boar.",
+    "6839b888-d6dd-4a99-92a3-db96bf251615": "<i>No. We are allies - nothing more.<\/i>",
+    "7899b9f6-fb16-fb00-e2ca-221b627a4384": "A sweet gesture, but all... this? It's not really for me."
+  }
+}
