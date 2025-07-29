@@ -287,7 +287,9 @@
     "d3151f65-4d1c-8c32-f0b6-d7a11843a40c": [
       "FEMALE"
     ],
-    "af8cb7b3-0775-2a90-6b53-4109723ff4f3": [ ],
+    "af8cb7b3-0775-2a90-6b53-4109723ff4f3": [
+      "CAMP_DaisyAcknowledgement_SexWithEmperor"
+    ],
     "7b503ad1-bcca-c369-81ca-9e49317ddc39": [ ],
     "80f69a0d-b5e4-ef7b-55f8-7773ab8ae759": [
       "ORI_State_PartneredWithShadowheart"
@@ -584,7 +586,9 @@
     "8f607bce-a9bb-3d84-d5ca-a704925d3333": [ ],
     "144dc5e1-5c4d-d503-ad99-65ff063ef0b9": [ ],
     "12656844-651f-c7b1-1fce-59744bd60139": [ ],
-    "6839b888-d6dd-4a99-92a3-db96bf251615": [ ],
+    "6839b888-d6dd-4a99-92a3-db96bf251615": [
+      "CRE_AstralPrison_State_KilledDaisyDuringGameplay"
+    ],
     "7899b9f6-fb16-fb00-e2ca-221b627a4384": [
       "Approval_AtLeast_0_For_Sp2"
     ]
