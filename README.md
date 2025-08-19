@@ -8,3 +8,6 @@ The Baldur's Gate 3 Mod Manager should work as well.
 # Credits:
 - Thank you to the Ceremorphosis Anonymous Discord server for discussion, brainstorming, and encouragement!
 - Thank you to [magnetuning](https://next.nexusmods.com/profile/magnetuning?gameId=3474) for his [dialog guide](https://wiki.bg3.community/en/Tutorials/new-voice-lines), [sample mod](https://www.nexusmods.com/baldursgate3/mods/10086) and [BG3 Dialog Timeline Updater](https://www.nexusmods.com/baldursgate3/mods/11295).
+
+# Old Release:
+The previous versions of this mod can be found [here](https://github.com/SASUKE38/EmperorDryad).
